@@ -1,0 +1,74 @@
+Kyoto japan
+
+	1. History (2 pages)
+		-Important personalities
+
+	2. Details about the city (1 page)
+		-Surface size
+		-Roads
+		-Climate
+		-Ways of transport, availability. Could use a table here too.
+
+	3. Things to do (depends, either a list of places, or clicking them can give more info, at least 3 pages)
+		-Events
+		-Places, buildings to visit
+
+	4. Food (4 pages, each for every type of food place and one just talking about what you can find)(Will probably be whole of japan but the main thing you can find in koyto)
+		-Restaurants
+		-Fast Foods
+		-Food Stands
+
+---already 10 ten pages if conditions met---
+
+	5. Accomodations (same as number 3, could do something with prices ranges, location, etc.)(if someone wants to go to kyoto on vacation ig)
+		About those two tables, could use them here to compare prices, locations, etc between different appartments
+
+	6. Commerce/Entertainement (also like number 3, although might merge shops and malls together, shops as entertainement kinda weird)
+		-Arcades
+		-Shops
+		-Malls
+
+DON'T FORGET
+
+-animations
+-comments explaining the code
+-lists
+-school logo, "Realisé dans le cadre du cours de 'TTi - WEB and FIRST and LAST name on first page
+-menu to navigate around pages (like on the old music project, a horizontal list on top of every page for example)
+-AT LEAST TWO TABLES (should be okay)
+
+---Helpful websites for information---
+
+https://en.wikipedia.org/wiki/Kyoto (Always nice to have)
+
+https://www.japan-guide.com/e/e2158.html (Full guide)
+
+https://www.britannica.com/place/Kyoto-Japan (1. 2. 6.)
+
+https://www.lonelyplanet.com/japan/kansai/kyoto (1. 3.)
+
+https://fr.hotels.com/go/japan/jp-best-kyoto-local-food (4.)
+
+https://www.insidekyoto.com/best-restaurants-in-kyoto (4.)
+
+https://www.booking.com/city/jp/kyoto.en.html?aid=373411;label=city-kyoto-4LHRAQbL1n7eASDAXDPvIgS476702693187:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-3419485485:lp1001418:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9Ybz4KBg0DTFCTn0pIbYiAXw;ws=&gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4auVVqgwnsxURJRRWsChl4F1rU6sMut2ye4LvSIae9r8qADhIX1uWLxoC2hIQAvD_BwE (5.)
+
+https://www.insidekyoto.com/kyoto-hotels (5.)
+
+https://be.hotels.com/fr/de725674/hotels-kyoto-japon/?locale=fr_BE&pos=HCOM_BE&siteid=300000017 (5.)
+
+---Videos i could use---
+
+(try uploading youtube videos immediatly, if it doesn't work download them but WILL make folders heavy AS FUCK, so maybe not)
+
+https://www.youtube.com/watch?v=3gX-umzVl9s
+
+
+
+
+
+
+
+
+
+
